@@ -12,8 +12,8 @@ Ispired by: https://github.com/TuureKaunisto/checkout-api
 
 Only create payments is supported. I'm happy to accept pull requests :)
 
-## Running tests
+## Publishing new version
 
-```
-npm run test
-```
+This project uses [semantic-relese](https://github.com/semantic-release/semantic-release).
+
+Use ```npm run commit``` to format your commit messages.
