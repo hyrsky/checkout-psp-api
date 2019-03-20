@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/hyrsky/checkout-psp-api.svg?branch=master)](https://travis-ci.org/hyrsky/checkout-psp-api)
+
 # Checkout API
 
 This is a simple library for online payments with the Finnish Checkout online bank payment system
