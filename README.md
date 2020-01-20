@@ -16,4 +16,4 @@ Only create payments is supported. I'm happy to accept pull requests :)
 
 This project uses [semantic-relese](https://github.com/semantic-release/semantic-release).
 
-Use ```npm run commit``` to format your commit messages.
+Use `npm run commit` to format your commit messages.
