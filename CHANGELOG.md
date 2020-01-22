@@ -1,3 +1,10 @@
+## [2.0.2](https://github.com/hyrsky/checkout-psp-api/compare/v2.0.1...v2.0.2) (2020-01-22)
+
+
+### Bug Fixes
+
+* fix response json parsing ([81072a1](https://github.com/hyrsky/checkout-psp-api/commit/81072a1c417cc1c0d81c75d9974269f5ad9e2b4f))
+
 ## [2.0.1](https://github.com/hyrsky/checkout-psp-api/compare/v2.0.0...v2.0.1) (2020-01-22)
 
 
