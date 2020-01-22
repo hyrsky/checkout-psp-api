@@ -188,13 +188,14 @@ export default class CheckoutApi {
 		return axios
 			.post(url, body, {
 				baseURL: CHECKOUT_ENDPOINT,
+				responseType: 'json',
 				transformResponse: [
 					(data, headers) => {
 						if (!this.validateResponse(headers, data)) {
 							throw new Error('Signature verification failed')
 						}
 
-						return data
+						return JSON.parse(data)
 					}
 				],
 				headers
