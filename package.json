@@ -32,7 +32,7 @@
 		"@types/uuid": "^3.4.6",
 		"@typescript-eslint/eslint-plugin": "^2.16.0",
 		"@typescript-eslint/parser": "^2.16.0",
-		"axios": "^0.19.1",
+		"axios": "^0.21.1",
 		"commitizen": "^4.0.3",
 		"cz-conventional-changelog": "^3.0.2",
 		"eslint": "^6.8.0",
@@ -52,7 +52,7 @@
 		"uuid": "^3.4.0"
 	},
 	"peerDependencies": {
-		"axios": "^0.19.1"
+		"axios": "^0.21.1"
 	},
 	"commitlint": {
 		"extends": [
