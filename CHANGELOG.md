@@ -1,3 +1,10 @@
+## [2.0.3](https://github.com/hyrsky/checkout-psp-api/compare/v2.0.2...v2.0.3) (2021-02-05)
+
+
+### Bug Fixes
+
+* update typescript & uuid (trigger build) ([bc6e0c3](https://github.com/hyrsky/checkout-psp-api/commit/bc6e0c3a7f9771a882e09a07dc1366a0d26d489c))
+
 ## [2.0.2](https://github.com/hyrsky/checkout-psp-api/compare/v2.0.1...v2.0.2) (2020-01-22)
 
 
