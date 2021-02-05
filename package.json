@@ -43,7 +43,7 @@
 		"jest-config": "^24.9.0",
 		"lint-staged": "^10.0.0",
 		"prettier": "^1.19.1",
-		"semantic-release": "^16.0.2",
+		"semantic-release": "^17.2.3",
 		"ts-jest": "^24.3.0",
 		"typedoc": "^0.16.7",
 		"typescript": "^3.7.5"
